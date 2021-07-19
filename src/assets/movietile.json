@@ -1,0 +1,180 @@
+[
+    {
+        "id": 1,
+        "title": "The Godfather",
+        "Link": "",
+        "image": "https://i.pinimg.com/originals/e6/31/d4/e631d4de7bb67f74211d119313703c7d.png",
+        "release_date":"Fri, Mar 16 2001",
+        "genres": ["Crime","Thriller"],
+        "first_name":"Al",
+        "last_name":"Pacino",
+        "duration": 177,
+        "critics_rating":10,
+        "profile_url":"https://www.nydailynews.com/resizer/MvL_PaL1-BSV1g-L0r1i2ijB4_U=/1400x0/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/VEE5ZIACLGFXABRE4ZGSZ7YOJI.jpg",
+        "wiki_url" :"https://en.wikipedia.org/wiki/The_Godfather",
+        "trailer_url":"https://www.youtube.com/watch?v=sY1S34973zA",
+        "story_line":"In 1945 New York City, at his daughter Connie's wedding to Carlo, Vito Corleone, the don of the Corleone crime family listens to requests. His youngest son, Michael, who was a Marine during World War II, introduces his girlfriend, Kay Adams, to his family at the reception. Johnny Fontane, a popular singer and Vito's godson, seeks Vito's help in securing a movie role; Vito dispatches his consigliere, Tom Hagen, to Los Angeles to persuade studio head Jack Woltz to give Johnny the part. Woltz refuses until he wakes up in bed with the severed head of his prized stallion."
+    },
+    {
+        "id": 2,
+        "title": "The Nun",
+        "Link": "",
+        "first_name":"Ajsdl",
+        "profile_url":"zsda",
+        "last_name":"Pajsdcino",
+        "image": "https://www.newdvdreleasedates.com/images/posters/large/the-nun-2018.jpg",
+        "release_date":"Fri, Sept 7 2018",
+        "genres": ["Crime","Thriller"],
+        "duration": 96,
+        "critics_rating":6,
+        "wiki_url" :"https://en.wikipedia.org/wiki/The_Nun_(2018_film)",
+        "trailer_url":"https://www.youtube.com/watch?v=pzD9zGcUNrw",
+        "story_line":"abcd"
+
+    },
+    {
+        "id": 3,
+        "title": "The Revenant",
+        "Link": "",
+        "first_name":"hjds",
+        "last_name":"Pjdscacino",
+        "profile_url":"zsda",
+        "image": "https://2.bp.blogspot.com/-awFoDu8jbyU/V8xIKhNs-WI/AAAAAAAAAhE/w1JQI3Uizq4P1v5BkSdvkpAgo4ovBN3agCLcB/s1600/The_Revenant_2015_watch_online_free.jpg",
+        "release_date":"Fri, Aug 10 2015",
+        "genres": ["Crime","Thriller"],
+        "duration": 156,
+        "critics_rating":7.3,
+        "wiki_url" :"https://en.wikipedia.org/wiki/The_Revenant_(2015_film)",
+        "trailer_url":"https://www.youtube.com/watch?v=LoebZZ8K5N0"
+        ,
+        "story_line":"abcd"
+
+    },
+    {
+        "id": 4,
+        "title": "Mile 22",
+        "Link": "",
+        "image": "https://is5-ssl.mzstatic.com/image/thumb/Video128/v4/c0/85/1d/c0851de5-cd76-5ec4-8115-6de586008a20/source/900x900bb.jpg",
+        "release_date":"Fri, August 17 2018",
+        "genres": ["Crime","Thriller"],
+        "duration": 177,
+        "first_name":"Al",
+        "last_name":"Pacino",
+        "profile_url":"zsda",
+        "critics_rating":10,
+        "wiki_url" :"https://en.wikipedia.org/wiki/Mile_22",
+        "trailer_url":"https://www.youtube.com/watch?v=eJU6S5KOsNI"
+        ,
+        "story_line":"abcd"
+
+    },
+    {
+        "id": 5,
+        "title": "Ad Astra",
+        "Link": "",
+        "image": "https://media1.fdncms.com/connectsavannah/imager/u/original/13308274/ad_astra.jpg",
+        "release_date":"Fri, Aug 29 2019",
+        "genres": ["Crime","Thriller"],
+        "duration": 124,
+        "first_name":"Aiwru4l",
+        "last_name":"Pajhecino",
+        "profile_url":"zsda",
+        "critics_rating":5,
+        "wiki_url" :"https://en.wikipedia.org/wiki/Ad_Astra_(film)",
+        "trailer_url":"https://www.youtube.com/watch?v=P6AaSMfXHbA"
+        ,
+        "story_line":"abcd"
+
+    },
+    {
+        "id": 6,
+        "title": "The Irishman",
+        "Link": "",
+        "image": "https://cdn3.movieweb.com/i/article-content/oJCuL4lyHdxk3jomuoozbUCqaDU8wH/798:50/default.jpg",
+        "release_date":"Fri, September 27 2019",
+        "genres": ["Crime","Thriller"],
+        "duration": 209,
+        "critics_rating":8.8,
+        "first_name":"Al",
+        "last_name":"Pacino",
+        "profile_url":"zsda",
+        "wiki_url" :"https://en.wikipedia.org/wiki/The_Irishman",
+        "trailer_url":"https://www.youtube.com/watch?v=WHXxVmeGQUc"
+        ,
+        "story_line":"abcd"
+
+    },
+    {
+        "id": 7,
+        "title": "Harry Potter One",
+        "Link": "",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/A1eRhRejNKS._SX600_.jpg",
+        "release_date":"Fri, Nov 10 2001",
+        "genres": "Fantasy",
+        "duration": 152,
+        "critics_rating":9,
+        "first_name":"Asudfhujfl",
+        "last_name":"Pajdsfhcino",
+        "profile_url":"zsda",
+        "wiki_url" :"https://en.wikipedia.org/wiki/Harry_Potter_and_the_Philosopher%27s_Stone_(film)",
+        "trailer_url":"https://www.youtube.com/watch?v=mNgwNXKBEW0"
+        ,
+        "story_line":"abcd"
+
+    },
+    {
+        "id": 8,
+        "title": "The Mummy (1999)",
+        "Link": "",
+        "image": "http://resizing.flixster.com/MRziCHCwUNc_RXnbSS4aL_tlFm4=/800x1200/dkpu1ddg7pbsk.cloudfront.net/movie/11/16/88/11168892_ori.jpg",
+        "release_date":"Fri, Sep 7 1999",
+        "genres": "Horror",
+        "duration": 125,
+        "critics_rating":7,
+        "first_name":"Aerl",
+        "last_name":"hfr",
+        "profile_url":"zsda",
+        "wiki_url" :"https://en.wikipedia.org/wiki/The_Mummy_(1999_film)",
+        "trailer_url":"https://www.youtube.com/watch?v=IjHgzkQM2Sg"
+        ,
+        "story_line":"abcd"
+
+    },
+    {
+        "id": 9,
+        "title": "Gone Girl",
+        "Link": "",
+        "image": "https://4.bp.blogspot.com/-Wh_SpCZzG_4/XFhvu4aVK-I/AAAAAAAAsVE/i1JeWliYSMA-U9lLfQJRQ-TCXEoX1a4RQCEwYBhgL/s1600/gone-girl.jpg",
+        "release_date":"Fri, Oct 3 2014",
+        "genres": ["Crime","Thriller","Suspense"],
+        "duration": 149,
+        "critics_rating":10,
+        "first_name":"Al",
+        "last_name":"Pacino",
+        "profile_url":"zsda",
+        
+        "wiki_url" :"https://en.wikipedia.org/wiki/The_Godfather",
+        "trailer_url":"https://www.youtube.com/watch?v=2-_-1nJf8Vg"
+        ,
+        "story_line":"abcd"
+
+    },
+    {
+        "id": 10,
+        "title": "The Grudge",
+        "Link": "",
+        "first_name":"Al",
+        "last_name":"Pacino",
+        "profile_url":"zsda",
+        "image": "https://posterspy.com/wp-content/uploads/2019/12/Grudge02web.jpg",
+        "release_date":"Fri, Jan 3 2020",
+        "genres": ["Horror","Thriller"],
+        "duration": 94,
+        "critics_rating":4.3,
+        "wiki_url" :"https://en.wikipedia.org/wiki/The_Grudge_(2020_film)",
+        "trailer_url":"https://www.youtube.com/watch?v=O2NKzO-fxwQ"
+        ,
+        "story_line":"abcd"
+
+    }
+]

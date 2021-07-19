@@ -1,0 +1,27 @@
+.heading{
+    background-color: #ff9999;
+    padding: 8px 8px 8px 8px;
+    text-align: center;
+    font-size: 1rem;
+}
+.filter-movie-container{
+    width:100%;
+    display: flex;
+    /* background-color: aqua; */
+    height: 500px;
+}
+.releasedmovies{
+    margin: 16px 16px;
+    width: 76%;
+    /* background-color: red; */
+    /* float: left; */
+}
+.filter-card{
+    margin: 16px 16px 16px 16px;
+    width: 24%;
+    background-color: blue;
+    float: right;
+}
+.imagehover{
+    cursor: pointer;
+}

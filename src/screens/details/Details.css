@@ -1,0 +1,47 @@
+
+.bookshowbtn{
+    height: 35px;
+    padding: 0px 0px;
+    margin-right: 96px;
+    margin-top: -40px;
+    min-width: 5px;
+    font-size: 0.8125rem;
+    float: right;
+}
+.back-btn{
+    margin-top: 8px;
+     margin-left:24px ;
+     margin-bottom: 0px;
+     height: 24px;
+     cursor: pointer;
+}
+.details-body{
+    /* background-color: rgb(136, 22, 22)(97, 92, 92); */
+    height: 600px;
+    display: flex;
+    flex-direction: row;
+}
+.left{
+    width: 20%;
+    /* background-color: rgb(106, 106, 240); */
+}
+.player{
+    margin-top: 16px;
+}
+.middle{
+    width: 60%;
+    /* background-color: rgb(126, 77, 85); */
+}
+.right{
+    width: 20%;
+    /* background-color: rgb(106, 106, 240);; */
+}
+.box:hover {
+    display:inline;
+    color: yellow;
+    cursor: pointer;
+  }
+  .artistGrid {
+    margin-top: 16px;
+    margin-bottom: 16px;
+  }

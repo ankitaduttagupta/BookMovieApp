@@ -1,0 +1,44 @@
+.header{
+    background-color: #222;
+    height: 36px;
+    padding-top: 8px 32px 8px 16px;
+}
+.logo{
+    height: 35px;
+    margin-left: 2px;
+}
+.rotate{
+    float: left;
+    background-color: #ff7f7f;
+    animation: rotation 8s infinite linear ;
+}
+@keyframes rotation {
+    from{
+        transform : rotate(0deg);
+    }
+    to{
+        transform : rotate(359deg);
+    }
+}
+.login-btn{
+    height: 35px;
+    padding: 0px 0px;
+    margin-right: 14px;
+    margin-top: 2px;
+    min-width: 25px;
+    font-size: 0.8125rem;
+    float: right;
+}
+.bookshow-btn{
+    height: 35px;
+    padding: 0px 0px;
+    margin-right: 30px;
+    margin-top: 2px;
+    min-width: 25px;
+    font-size: 0.8125rem;
+    float: right;
+}
+.custom-modal-style{
+    width: 300px;
+    height: 300px;
+}
